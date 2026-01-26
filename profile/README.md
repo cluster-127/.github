@@ -2,7 +2,8 @@
 
 > **Synthetic Biology for Software**
 
-We build deterministic physics engines for distributed systems. Our stack models software as living organisms — with reflexes, memory, and the wisdom to forget.
+We build deterministic physics engines for distributed systems.
+Our stack models software as living organisms — with reflexes, memory, and the wisdom to forget.
 
 ---
 
@@ -24,19 +25,3 @@ We build deterministic physics engines for distributed systems. Our stack models
 | **[Tracehound](https://github.com/tracehound)** | Deterministic Runtime Security for Modern Applications. |
 | **[Clearhold](https://github.com/clearhold)** | Payment-adjacent execution & risk infrastructure |
 | **[TCR.Tools](https://github.com/tcr-tools)** | Deterministic intent resolution, causal timelines, and time-travel debugging for complex applications. |
-
----
-
-## Philosophy
-
-```md
-We give machines the wisdom to forget.
-```
-
----
-
-<p align="center">
-  <a href="https://cluster127.com">cluster127</a> ·
-  <a href="https://erdem.work">blog</a> ·
-  <a href="https://substack.com/@eablog">substack</a>
-</p>
