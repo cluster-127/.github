@@ -1,6 +1,6 @@
 # Cluster 127
 
-> **Synthetic Biology for Software**
+> **We give machines the wisdom to feel.**
 
 We build deterministic physics engines for distributed systems.
 Our stack models software as living organisms — with reflexes, memory, and the wisdom to forget.
